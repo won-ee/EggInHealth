@@ -1,0 +1,33 @@
+.mobile {
+  max-width: 360px;
+  /* max-height: 800px; */
+  height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f8f8f8;
+  padding-top: 40px;
+  margin-bottom: 96px;
+}
+
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 40px;
+  color: black;
+  z-index: 20;
+}
+
+.nav{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 76px;
+  background-color:  white;
+  padding: 1px 0px;
+  max-width: 360px;
+  margin-left: auto;
+  margin-right: auto;
+}
